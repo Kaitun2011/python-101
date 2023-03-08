@@ -1,2 +1,0 @@
-name = 'uncle'
-lastname = 'engineer'
